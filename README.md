@@ -10,7 +10,7 @@ The strategy is outputted as a list of the best tyres for each lap:
 
 ![image](https://github.com/user-attachments/assets/cc56271a-5e44-4728-a7ed-933318c10e96)
 
-Clearly, starting the race on hards, then pitting three laps later is not optimal. The model might perform better if features like pit stop duration were taken into account.
+Clearly, starting the race on hards, then pitting three laps later is not optimal. The model might perform better if features like pit stop duration or starting position were taken into account.
 
 The scores related to the model's predictions on test data:
 
